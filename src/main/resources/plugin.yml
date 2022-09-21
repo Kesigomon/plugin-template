@@ -1,6 +1,6 @@
-name: HomePoint
+name: pluginName
 version: '1.0.1'
-main: love.chihuyu.homepoint.HomePoint
+main: love.chihuyu # Todo: Change ME!
 prefix: HomePoint
 authors: [ Hirosuke ]
 depend: [CommandAPI]
